@@ -2,7 +2,7 @@
 
 This is an example database with the following tables:
 
-- User
+- AppUser
 - UserProfile
 - Car
 - CarModel
